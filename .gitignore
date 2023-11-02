@@ -1,0 +1,8 @@
+.vscode
+**.pyc
+**.png
+**.jpg
+**.pth
+**.ckpt
+**.pth
+**.json
